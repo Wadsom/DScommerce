@@ -1,7 +1,7 @@
 import "./style.css";
 import ProductCategory from "../ProductCategory";
 //import BodyBttnPages from '../BodyBttnPages';
-import { ProductDTO } from "../../entity/Product";
+import { ProductDTO } from "../../Entity_Models/Product";
 
 
 type Props ={
