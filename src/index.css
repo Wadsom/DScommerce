@@ -50,10 +50,10 @@ main {
   max-width: 960px;
   margin: 0 auto;
 }
-
+/* 
 .dsc-mb20 {
   margin-bottom: 20px;
-}
+} */
 
 .dsc-mt20 {
   margin-top: 20px;
@@ -86,15 +86,7 @@ header {
   padding: 0 20px;
 }
 
-.dsc-header-client {
-  background-color: var(--dsc-color-bg-secondary);
-  color: var(--dsc-color-font-primary);
-}
 
-.dsc-header-admin {
-  background-color: var(--dsc-color-bg-quaternary);
-  color: var(--dsc-color-font-tertiary);
-}
 
 nav {
   display: flex;
@@ -167,7 +159,7 @@ nav a {
 /*-----------------------------------------------------------------*/
 /* card styles */
 
-.dsc-card {
+/* .dsc-card {
   border: 1px solid var(--dsc-color-card-border);
   border-radius: 4px;
   background-color: var(--dsc-color-card-bg);
@@ -175,23 +167,23 @@ nav a {
 
 .dsc-line-bottom {
   border-bottom: 1px solid var(--dsc-color-card-border);
-}
+} */
 
 /*-----------------------------------------------------------------*/
 /* button styles */
 
-.dsc-btn-page-container {
+/* .dsc-btn-page-container {
   width: 100%;
   display: grid;
   grid-gap: 20px;
-}
+} */
 
-@media (min-width: 576px) {
+/* @media (min-width: 576px) {
   .dsc-btn-page-container {
     width: 220px;
   }
-}
-
+} */
+/* 
 .dsc-btn {
   width: 100%;
   height: 42px;
@@ -214,7 +206,7 @@ nav a {
   border: 1px solid var(--dsc-color-btn-primary);
   background-color: var(--dsc-color-btn-inverse);
   color: var(--dsc-color-btn-primary);
-}
+} */
 
 .dsc-btn-next-page {
   border: 1px solid var(--dsc-color-btn-primary);
@@ -229,7 +221,7 @@ nav a {
 
 /*-----------------------------------------------------------------*/
 /* search bar styles */
-
+/* 
 .dsc-search-bar {
   height: 40px;
   display: flex;
@@ -270,7 +262,7 @@ nav a {
 .dsc-search-bar button[type="reset"] {
   border-left: none;
   border-radius: 0 4px 4px 0;
-}
+} */
 
 /*-----------------------------------------------------------------*/
 /* form styles */
